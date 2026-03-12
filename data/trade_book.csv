@@ -1,0 +1,9 @@
+Trade_ID,Commodity,Position_Type,Quantity_MT,Contract_Price_USD
+TRD-1001,Corn,Physical_Long,5000,175.5
+TRD-1002,Corn,Futures_Short,4000,178.0
+TRD-1003,Corn,Physical_Long,2500,172.0
+TRD-1004,Corn,Futures_Short,3000,176.5
+TRD-2001,Soybeans,Physical_Short,3000,455.0
+TRD-2002,Soybeans,Futures_Long,2500,450.0
+TRD-2003,Soybeans,Physical_Long,8000,445.0
+TRD-2004,Soybeans,Futures_Short,6500,448.5
