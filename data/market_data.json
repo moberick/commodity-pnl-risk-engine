@@ -1,0 +1,17 @@
+{
+    "Corn": {
+        "symbol": "ZC=F",
+        "price": 466.0,
+        "timestamp": "2026-03-12T15:30:32.157661"
+    },
+    "Soybeans": {
+        "symbol": "ZS=F",
+        "price": 1235.0,
+        "timestamp": "2026-03-12T15:30:32.193643"
+    },
+    "GBP/USD": {
+        "symbol": "GBPUSD=X",
+        "price": 1.335,
+        "timestamp": "2026-03-12T15:30:32.294533"
+    }
+}
